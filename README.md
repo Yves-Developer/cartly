@@ -1,4 +1,5 @@
 # Cartly - E-Commerce Web Application UI/UX Design
+<img width="1200" height="551" alt="Screenshot 2026-07-30 234542" src="https://github.com/user-attachments/assets/b0ee6f64-1a76-481b-ae2f-8c615c267f03" />
 
 ## Course Information
 
@@ -27,6 +28,11 @@ All exported deliverables and required links for this assignment are organized i
 - 🖼️ **[Assets](./Project/assets/)**: Reserved for design assets such as logos, icons, and branding materials.
 
 ---
+
+# For No code tool (Asgniment 2)
+- 🔗 **[Web app Link build using no code tool](https://cartly-9053.myshopify.com/)**: we used shopify to turn our design into working web application
+- It requires store password ( admin@mis2026 )
+<img width="1527" height="662" alt="Screenshot 2026-07-31 002234" src="https://github.com/user-attachments/assets/2baa9a25-9ebb-4482-84ea-066ef5b9f6ab" />
 
 # Selected Application/System
 
