@@ -17,6 +17,17 @@
 
 ---
 
+# Project Assets & Links
+
+All exported deliverables and required links for this assignment are organized in the `Project/` folder. You can navigate directly to them using the links below:
+
+- 🔗 **[Figma Prototype Link](./Project/prototype/prototype_link.md)**: Contains the public link to access our interactive, clickable Figma prototype.
+- 🎨 **[High-Fidelity Designs](./Project/high-fidelity-designs/)**: Contains the exported PNG files of all finalized UI screens (Desktop & Mobile).
+- 📐 **[Wireframes](./Project/wireframes/)**: Contains the structural layouts (Low-Fidelity) for our screens.
+- 🖼️ **[Assets](./Project/assets/)**: Reserved for design assets such as logos, icons, and branding materials.
+
+---
+
 # Selected Application/System
 
 **Application Type:** E-Commerce Web Application
